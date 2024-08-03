@@ -1,0 +1,8 @@
+{
+  "name": "opac-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/darkeny/opac-website.git",
+  "author": "darkeny <darkenpaulo00@gmail.com>",
+  "license": "MIT"
+}
