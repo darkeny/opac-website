@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-transparent px-4">
-      <div className="text-center bg-white p-8 rounded-2xl shadow-2xl transform transition-all duration-700 hover:scale-105 w-full max-w-md" data-aos="fade-up">
+      <div className="text-center bg-white p-8 rounded-2xl shadow-2xl transform transition-all duration-700 hover:scale-105  max-w-md" data-aos="fade-up">
         <div className="flex items-center justify-center mb-6 w-45 h-45  bg-white mx-auto" data-aos="fade-up" data-aos-delay="200">
           <img src="/White and Black Logo.png" alt="OPAC - Advogados Logo" className="" />
         </div>
